@@ -19,7 +19,7 @@ Des solutions simples, mais conçues avec soin pour rendre l'usage pratique et c
 | Domaine | Outils | Statut |
 | --- | --- | --- |
 | CRM, ERP, reporting | Salesforce, Dynamics, SAP, BusinessObjects, Excel avancé | ✅ Expérience professionnelle |
-| IA générative et no-code | Make, Airtable, Gemini | ✅ Formation terminée (2026) |
+| IA générative et no-code | Make, Airtable, Softr, Gemini | ✅ Formation terminée (2026) |
 | Data | SQL, Power BI, Python | 🔄 Formation en cours |
 
 ## 📫 Me contacter
